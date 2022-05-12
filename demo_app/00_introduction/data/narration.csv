@@ -2,7 +2,7 @@ narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragra
 introStart,intro,40,40,50,Dit is een test,,,,"{
 	""svgFileName"": ""slide1""
 }",,
-,intro,40,40,50,1. CD&V wordt de kleinste,,,,"{
+,intro,40,40,50,CD&V wordt de kleinste,,,,"{
 	""svgFileName"": ""slide2""
 }",,
 ,intro,40,40,50,But you don't want to write a lot of HTML boilerplate...,,,,"{
@@ -11,6 +11,6 @@ introStart,intro,40,40,50,Dit is een test,,,,"{
 ,intro,40,40,50,ScrollyTeller can help you put it all together!,,,,"{
 	""svgFileName"": ""slide4""
 }",,
-,intro,40,40,50,How does it work?,"ScrollyTeller uses a JavaScript configuration object (<pre style=""display: inline-block;""><code>{ ... }</code></pre>) to define data resources like <strong>chart data</strong> and <strong>text narration</strong>, and builds the HTML layout of the page.<br><br>The configuration also defines functions to <strong>pre-process data</strong>, <strong>build your chart</strong> and <strong>event handlers</strong> to respond to scrolling and resize events.",,,"{
+,intro,40,40,50,How does it work?,"Volgens ""De Stemming"" zou slechts 8,7 procent van de bevraagden nog voor CD&V stemmen. Dat is 6,7 procentpunt minder dan het resultaat dat CD&V haalde bij de Vlaamse verkiezingen van 2019. De christendemocraten worden zo de kleinste Vlaamse partij en zakken onder PVDA. Rekening houdend met de foutenmarge kan CD&V nog van plaats wisselen met PVDA en Groen.",,,"{
 	""svgFileName"": ""slide5""
 }",,
