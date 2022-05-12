@@ -1,5 +1,5 @@
 narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
-introStart,intro,40,40,50,So you want to build a scrollytelling data story?,,,,"{
+introStart,intro,40,40,50,Dit is een test,,,,"{
 	""svgFileName"": ""slide1""
 }",,
 ,intro,40,40,50,And <strong>animate</strong> your charts as you <strong>narrate</strong> the story with scrolling text?,,,,"{
